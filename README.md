@@ -3,7 +3,7 @@
 Here is an exhaustive list of web resources that will help you to become a great Frontend developer.
 
 > [preview on the web](https://nicedoc.io/frontend-newbie-essestial-resources)
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/iamdejean/frontend-newbie-essential-resources) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ## Mozilla Developer Network
 - [Mozilla Developer Network-MDN](https://developer.mozilla.org/en-US/)
