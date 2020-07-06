@@ -2,7 +2,7 @@
 
 Here is an exhaustive list of web resources that will help you to become a great Frontend developer in 2019.
 
-##Mozilla Developer Network
+#Mozilla Developer Network
 - [Mozilla Developer Network-MDN](https://developer.mozilla.org/en-US/)
 
 Mozilla Developer Network for frontend (Html, CSS, Js, etc.) code reference and learning 🤓. This will be your code holy book 📚 and you should follow it religiously!
