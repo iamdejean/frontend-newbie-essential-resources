@@ -1,4 +1,4 @@
-# frontend-newbie-essential-resources
+# Frontend "Newbie" Essential Resources
 
 Here is an exhaustive list of web resources that will help you to become a great Frontend developer in 2019.
 
