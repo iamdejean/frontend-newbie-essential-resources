@@ -25,7 +25,7 @@ web.dev to learn about web 🕷 fundamentals from Google Developers 👨‍💻.
 
 ## v8.dev
 - [v8.dev](https://v8.dev)
-v8.dev to learn about Google’s open-source high-performance Javascript and WebAssembly engine 🦸‍♂️ that empowers Chrome and NodeJS.
+v8.dev to learn about Google open-source high-performance Javascript and WebAssembly engine 🦸‍♂️ that empowers Chrome and NodeJS.
 
 ## CSS-TRICKS
 - [css-tricks](https://css-tricks.com)
